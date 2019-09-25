@@ -1,3 +1,3 @@
-﻿# keras-text_classification_with_pujangga
+﻿# Text Classification using Keras and Pujangga
 
-firstly, install panggi pujangga in your machine, and then run it
+Pujangga needed to installed first before running this code
